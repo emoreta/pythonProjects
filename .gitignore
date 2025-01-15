@@ -1,0 +1,35 @@
+# Archivos de configuración de Spyder
+.spyderproject
+.spyderworkspace
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de entorno virtual (si usas virtualenv o venv)
+venv/
+env/
+.venv/
+
+# Archivos de Jupyter Notebook (si estás usando notebooks en tu proyecto)
+*.ipynb_checkpoints
+
+# Archivos de configuración de editor de texto (en caso de que uses otros editores además de Spyder)
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
+
+# Archivos de log
+*.log
+
+# Archivos de datos generados
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Archivos de caché
+*.cache
+*.pydevproject
